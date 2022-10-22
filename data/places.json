@@ -1,0 +1,158 @@
+[
+    {
+        "id": "fb210fbd-7b0c-48bc-b82f-09df0dfe1959",
+        "name": "Istanbul",
+        "desc": "Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. In the Sultanahmet district, the open-air, Roman-era Hippodrome was for centuries the site of chariot races, and Egyptian obelisks also remain. The iconic Byzantine Hagia Sophia features a soaring 6th-century dome and rare Christian mosaics.",
+        "imageURL": "https://images.unsplash.com/photo-1527838832700-5059252407fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aXN0YW5idWwlMjBjaXR5fGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "destination": "Turkey",
+        "hotels": [
+            {
+                "id": "3b575a0d-b194-472c-bb0b-18ca8a26461b",
+                "cover": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWxzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "desc": "4 guests 2 bedrooms 2 beds 2 baths Wifi Air condition Kitchen Cancellation fexiblity available",
+                "ratings": 4.9,
+                "totalRating": 20,
+                "price": 52,
+                "tax": 15
+            },
+            {
+                "id": "abcbc025-ca71-456f-af8a-ee24c0dced9a",
+                "cover": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aG90ZWxzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "desc": "4 guests 2 bedrooms 2 beds 2 baths Wifi Air condition Kitchen Cancellation fexiblity available",
+                "ratings": 4.9,
+                "totalRating": 20,
+                "price": 52,
+                "tax": 15
+            },
+            {
+                "id": "89bbb0cd-62a5-405a-838b-8e16ef953193",
+                "cover": "https://images.unsplash.com/photo-1596386461350-326ccb383e9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGhvdGVsc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "desc": "4 guests 2 bedrooms 2 beds 2 baths Wifi Air condition Kitchen Cancellation fexiblity available",
+                "ratings": 4.9,
+                "totalRating": 20,
+                "price": 52,
+                "tax": 15
+            }
+        ]
+    },
+    {
+        "id": "eec06f01-09d3-4ded-8f9b-5b85910ebe80",
+        "name": "Oslo",
+        "desc": "Oslo, the capital of Norway, sits on the country’s southern coast at the head of the Oslofjord. It’s known for its green spaces and museums. Many of these are on the Bygdøy Peninsula, including the waterside Norwegian Maritime Museum and the Viking Ship Museum, with Viking ships from the 9th century. The Holmenkollbakken is a ski-jumping hill with panoramic views of the fjord. It also has a ski museum.",
+        "imageURL": "https://images.unsplash.com/photo-1614270857866-191c0bc3cb54?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG9zbG98ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "destination": "Norway",
+        "hotels": [
+            {
+                "id": "3b575a0d-b194-472c-bb0b-18ca8a26461b",
+                "cover": "https://images.unsplash.com/photo-1540541338287-41700207dee6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVzb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "desc": "4 guests 2 bedrooms 2 beds 2 baths Wifi Air condition Kitchen Cancellation fexiblity available",
+                "ratings": 4.9,
+                "totalRating": 20,
+                "price": 52,
+                "tax": 15
+            },
+            {
+                "id": "abcbc025-ca71-456f-af8a-ee24c0dced9a",
+                "cover": "https://images.unsplash.com/photo-1623718649591-311775a30c43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHJlc29ydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "desc": "4 guests 2 bedrooms 2 beds 2 baths Wifi Air condition Kitchen Cancellation fexiblity available",
+                "ratings": 4.9,
+                "totalRating": 20,
+                "price": 52,
+                "tax": 15
+            },
+            {
+                "id": "89bbb0cd-62a5-405a-838b-8e16ef953193",
+                "cover": "https://images.unsplash.com/photo-1601701119533-fde20cecbf4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHJlc29ydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "desc": "4 guests 2 bedrooms 2 beds 2 baths Wifi Air condition Kitchen Cancellation fexiblity available",
+                "ratings": 4.9,
+                "totalRating": 20,
+                "price": 52,
+                "tax": 15
+            }
+        ]
+    },
+    {
+        "id": "08a71da4-6877-4dae-b9eb-de7fcca2e132",
+        "name": "Greenland",
+        "desc": "Greenland, Kalaallisut Kalaallit Nunaat, the world's largest island, lying in the North Atlantic Ocean. Greenland (Kalaallit Nunaat) is noted for its vast tundra and immense glaciers. Although Greenland remains part of the Kingdom of Denmark, the island's home-rule government is responsible for most domestic affairs. The Greenlandic people are primarily Inuit who, depending upon the region they are from, call themselves Kalaallit (West Greenlanders), Inugguit (from Thule district), or Iit (East Greenlanders). They call their homeland Kalaallit Nunaat (“Country of the Greenlanders”). The capital of Greenland is Nuuk (Godthåb).",
+        "imageURL": "https://images.unsplash.com/photo-1625472603517-1b0dc72846ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHNjZW5lcnl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "destination": "Island",
+        "hotels": [
+            {
+                "id": "3b575a0d-b194-472c-bb0b-18ca8a26461b",
+                "cover": "https://images.unsplash.com/photo-1664372912644-1b70f8a00e5c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTZ8fGljZSUyMHJlc29ydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "desc": "4 guests 2 bedrooms 2 beds 2 baths Wifi Air condition Kitchen Cancellation fexiblity available",
+                "ratings": 4.9,
+                "totalRating": 20,
+                "price": 52,
+                "tax": 15
+            },
+            {
+                "id": "abcbc025-ca71-456f-af8a-ee24c0dced9a",
+                "cover": "https://images.unsplash.com/photo-1567878126633-926bac2902ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzF8fGljZSUyMHJlc29ydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "desc": "4 guests 2 bedrooms 2 beds 2 baths Wifi Air condition Kitchen Cancellation fexiblity available",
+                "ratings": 4.9,
+                "totalRating": 20,
+                "price": 52,
+                "tax": 15
+            },
+            {
+                "id": "89bbb0cd-62a5-405a-838b-8e16ef953193",
+                "cover": "https://plus.unsplash.com/premium_photo-1661885034037-8fe3d10c9c66?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njd8fGljZSUyMHJlc29ydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "desc": "4 guests 2 bedrooms 2 beds 2 baths Wifi Air condition Kitchen Cancellation fexiblity available",
+                "ratings": 4.9,
+                "totalRating": 20,
+                "price": 52,
+                "tax": 15
+            }
+        ]
+    },
+    {
+        "id": "c5132c64-04f6-41c9-909f-1027e28d5423",
+        "name": "Dubai",
+        "desc": "Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music. On artificial islands just offshore is Atlantis, The Palm, a resort with water and marine-animal parks.",
+        "imageURL": "https://images.unsplash.com/photo-1531586024505-b040066c2d5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGR1YmFpfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "destination": "UAE",
+        "hotels": [
+            {
+                "id": "3b575a0d-b194-472c-bb0b-18ca8a26461b",
+                "cover": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGR1YmFpJTIwcmVzb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "desc": "4 guests 2 bedrooms 2 beds 2 baths Wifi Air condition Kitchen Cancellation fexiblity available",
+                "ratings": 4.9,
+                "totalRating": 20,
+                "price": 52,
+                "tax": 15
+            },
+            {
+                "id": "abcbc025-ca71-456f-af8a-ee24c0dced9a",
+                "cover": "https://images.unsplash.com/photo-1655684346560-55cc62b2c9c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGR1YmFpJTIwcmVzb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "desc": "4 guests 2 bedrooms 2 beds 2 baths Wifi Air condition Kitchen Cancellation fexiblity available",
+                "ratings": 4.9,
+                "totalRating": 20,
+                "price": 52,
+                "tax": 15
+            },
+            {
+                "id": "89bbb0cd-62a5-405a-838b-8e16ef953193",
+                "cover": "https://images.unsplash.com/photo-1554289087-51d078c78d8a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGR1YmFpJTIwcmVzb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "title": "Light bright airy stylish apt & safe peaceful stay",
+                "desc": "4 guests 2 bedrooms 2 beds 2 baths Wifi Air condition Kitchen Cancellation fexiblity available",
+                "ratings": 4.9,
+                "totalRating": 20,
+                "price": 52,
+                "tax": 15
+            }
+        ]
+    }
+]
